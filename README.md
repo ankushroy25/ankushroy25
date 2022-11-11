@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Web Development and Cloud technologies
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on beginner web projects
 - 📫 Connect with me - <a href> linkedin.com/in/ankush-roy-b141b2224 </a>
 
 
