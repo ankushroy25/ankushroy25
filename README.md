@@ -19,9 +19,6 @@
 ### ✍️ A Quote for you
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 A meme too for you 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ankushroy25&icon=5&color=0)](https://visitcount.itsvg.in)
 
