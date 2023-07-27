@@ -1,5 +1,5 @@
 #  Hi !! I'm Ankush. 💫
-🌱 I’m currently learning Cloud technologies<br><br>👯 I’m looking to collaborate on beginner projects<br><br>🤝 I’m looking for help with backend and cloud<br><br>💬 Ask me about coding, basic development and football :P<br><br>📫 Reach me at - imankushroy@gmail.com
+🌱 I’m currently focussing Cloud technologies<br><br>👯 I’m looking to collaborate on beginner projects<br><br>🤝 I’m looking for help with backend and DevOps<br><br>💬 Ask me about coding, frontend and cloud dev and football :P<br><br>📫 Reach me at - imankushroy@gmail.com
 
 
 ## 🌐 Connect with me:
